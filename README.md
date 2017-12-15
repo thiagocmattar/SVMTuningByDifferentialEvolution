@@ -1,0 +1,2 @@
+# SVMTuningByDifferentialEvolution
+Um grande desafio em reconhecimento de padrões e problemas de classificação está na definição dos parâmetros do modelo. A temática deste trabalho consiste então na definição dos parâmetros de custo e largura da função de kernel de uma SVM, i.e. \textit{Support Vector Machine}, a partir de uma abordagem de otimização que utiliza um algoritmo diferencial evolutivo. A comparação do método proposto é feita com a abordagem clássica de validação cruzada para várias bases de dados, que incluem um problema de classes desbalanceadas. 
